@@ -1,6 +1,6 @@
 import Cookies from 'js-cookie';
 
-const base_url = 'https://nexomonapi.jacobschellenberg.com/api';
+const base_url = 'https://nexomonapi.com/api';
 const base_url_heroku = 'https://ct-nexopedia-adamschellenberg.herokuapp.com';
 const base_url_testing = 'http://127.0.0.1:5000'
 

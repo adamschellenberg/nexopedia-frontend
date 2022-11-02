@@ -12,12 +12,12 @@ export const HomePage = () => {
       <NavBar />
       <Container>
         <div className="main">
-          <div><h1>Welcome to Nexopdia</h1></div>
+          <div><h1>Welcome to Nexopedia</h1></div>
           <hr />
           <div>Nexopedia is a fan-made wiki for the Nexomon: Extinction game.
             Because this website is fully developed and maintained by fans in their
-            free time, things are always chaning and being updated. If there is
-            incorrect or missing information, please let us know at nexopedia@gmail.com
+            free time, things are always changing and being updated. If there is
+            incorrect or missing information, please email us at nexopedia@gmail.com
             and let us know! All help and feedback is appreciated! Check back
             often to see the new updates!
             <br />
